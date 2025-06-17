@@ -19,9 +19,10 @@ Conway’s Game of Life is a well-known cellular automaton where complex pattern
 - train: Training and validation 
 - tests: Testing and performance evaluation
 - utils: Helper functions
-- gifs: Game of Life visualizations
 - notebooks: Jupyter notebooks
 - requirements.txt: Python dependencies
+- normalization_data: Mean & Std values already computed
+- trained_models: Models already trained
 - main.py: Example script to run the process
 - README.md: Project overview
 - report.pdf: Final internship report

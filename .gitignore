@@ -1,0 +1,18 @@
+# ignore python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# ignore jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# ignore virtual environment directories
+env/
+venv/
+
+# ignore log and temps files
+*.log
+*.tmp
+
+# we do not ignore .npy files and .pth files
+# as they are used for model weights and data
